@@ -1,0 +1,16 @@
+[Section1]
+#choose your population type, F2 or RIL
+Population_type:RIL
+
+[Section2]
+Letter_for_homo1: A
+Letter_for_hete: X
+Letter_for_homo2: B
+Letter_for_missing_data: -
+
+[Section3]
+error_rate_for_homo1: 0.03
+error_rate_for_homo2: 0.01
+
+[Section4]
+Sliding_window_size: 11
